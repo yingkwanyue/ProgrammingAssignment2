@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functions to cache and return cache inverse of a matrix
 
-## Write a short comment describing this function
+## Create matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         z <- NULL
